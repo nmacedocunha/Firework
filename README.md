@@ -11,11 +11,12 @@ You can manipulate how many projectiles are in scene for a more vivid show.
 
 ## Tools
 
-Processing, you can download the editor at the [website][processing]```
+Processing, you can download the editor at the [website][processing]
 
 ## Project Information
 
-University : IPMAIA
+University : IPMAIA 
+
 Course : Desenvolvimento de Jogos Digitais
 
 Project Members: Nuno Cunha, Francisco Silva, Paulo Flores.
