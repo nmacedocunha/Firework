@@ -3,7 +3,11 @@ Processing based app to simulate a firework show.
 
 The project main purpose is to simulate the physics of a projectiles to simulate a firework show. 
 
-![](firework.gif)
+![](Firework01.gif)
+
+You can manipulate how many projectiles are in scene for a more vivid show.
+
+![](Firework02.gif)
 
 Tools
 
