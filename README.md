@@ -15,11 +15,13 @@ Processing, you can download the editor at the [website][processing]
 
 ## Project Information
 
-University : IPMAIA 
+**Project Members**
+  * Nuno Cunha
+  * Francisco Silva
+  * Paulo Flores.
 
-Course : Desenvolvimento de Jogos Digitais
-
-Project Members: Nuno Cunha, Francisco Silva, Paulo Flores.
+[IPMAIA][ipmaia] - Instituto Politécnico da Maia, Course - Desenvolvimento de Jogos Digitais. © 2018.
 
 <!-- Markdown link & img dfn's -->
 [processing]: https://processing.org/
+[ipmaia]: https://www.ipmaia.pt/
